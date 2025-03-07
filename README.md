@@ -25,13 +25,10 @@ With five years of coding experience and a passion for backend development and a
 ### Socials
 
 <p align="left">
-  <a href="https://www.github.com/cham0chiran" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/chamochiran" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
-  <a href="https://www.stackoverflow.com/users/cham0chiran" target="_blank" rel="noreferrer">
+  <a href="https://stackoverflow.com/users/29825263/cham0chiran?tab=profile" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" />
   </a>
 </p>
